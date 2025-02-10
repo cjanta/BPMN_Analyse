@@ -20,3 +20,21 @@ ISO Norm: https://www.omg.org/spec/BPMN/ISO/19510/PDF/
 
 
 https://www.gbtec.com/de/infohub/knowledge/bpmn-2-0/
+# Links
+
+https://www.heise.de/news/BPMN-2-0-fuer-eine-bessere-Zusammenarbeit-zwischen-Fachabteilung-und-IT-1175099.html
+
+
+https://start.camunda.com/
+
+
+
+# Fragen
+
+- Neue wf-engine?
+- Welche Editoren sind am Start?
+- Export aus dem eam oder innerhalb?
+- Grundsätzliche Vorstellung des Kunden (UseCases) zwecks Planung in BPMN,
+ BPMN 2.0 bietet mehr an, wie petrienetze - BPMN wird also beschränkt auf die übersetztbaren Elemente.
+
+
